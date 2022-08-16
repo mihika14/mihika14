@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihika14
+- 👋 Hi, I’m Mihika
 - 👀 I’m interested in Web Development..
 - 🌱 I’m currently learning Redux...
 - 📫 How to reach me -
