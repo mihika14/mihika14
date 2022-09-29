@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihika
-- 👀 I’m interested in Web Development..
+- 👀 I’m interested in Front-end Web Development..
 - 🌱 I’m currently learning Redux...
 - 📫 How to reach me -
 - Email - mihikasaxena13@gmail.com...
