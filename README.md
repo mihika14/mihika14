@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone , I'm Mihika &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <!---
 mihika14/mihika14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
