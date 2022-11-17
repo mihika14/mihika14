@@ -4,7 +4,6 @@ mihika14/mihika14 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 
 [![Mihika's github stats](https://github-readme-stats.vercel.app/api?username=mihika14&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/mihika/github-readme-stats)
