@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihika14)](https://github.com/mihika/github-readme-stats)
 
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mihika14&theme=dark&hide_border=true&border_radius=5.3)](https://git.io/streak-stats)
