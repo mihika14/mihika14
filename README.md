@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href ="mihikasaxena13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
