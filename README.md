@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihika14&theme=nightowl)](https://github.com/mihika/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mihika14&theme=nightowl&hide_border=true&border_radius=5.3)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihika14&theme=nightowl)](https://git.io/streak-stats)
