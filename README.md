@@ -34,8 +34,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### :fire: My Stats :
-[![Mihika's github stats](https://github-readme-stats.vercel.app/api?username=mihika14&count_private=true&show_icons=true&theme=nightowl&hide_rank=false)](https://github.com/mihika/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihika14&theme=nightowl)](https://github.com/mihika/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihika14&theme=nightowl)](https://git.io/streak-stats)
